@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.homepage    = "http://github.com/kylejginavan/youtube_it"
   s.license     = 'MIT'
 
-  s.add_runtime_dependency("nokogiri", "~> 1.6.0")
+  s.add_runtime_dependency("nokogiri", "~> 1.6")
   s.add_runtime_dependency("oauth", "~> 0.4.4")
   s.add_runtime_dependency("oauth2", "~> 1.0.0")
   s.add_runtime_dependency("simple_oauth", ">= 0.1.5")
